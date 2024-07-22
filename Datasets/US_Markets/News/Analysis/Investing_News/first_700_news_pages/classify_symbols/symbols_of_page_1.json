@@ -1,0 +1,10 @@
+[
+    {
+        'title': str,
+        'description': str,
+        'provider_name': str,
+        'publish_date': str,
+        'news_content_file': 'file_name.txt',
+        'symbols': ['AAPL', 'MSFT']
+    }
+]
